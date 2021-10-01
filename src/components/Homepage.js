@@ -13,7 +13,7 @@ const Homepage = () => {
                  Indian ! <br />  Glad you're here ! Do check my projects . 
             </p>
             <Link to="contact-me"> SAY HELLO</Link>
-            <Link id="more" to="about-me"> MORE ABOUT ME</Link>
+            <Link id="more" to="projects"> SEE PROJECTS</Link>
         </div>
         <div className="icon">
             <a href="https://www.linkedin.com/in/ujwal-danta-038509203/" target="_blank">
